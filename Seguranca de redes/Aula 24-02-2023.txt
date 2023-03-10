@@ -1,0 +1,21 @@
+Conceito de redes de Computadores
+
+- Classificação *
+
+- Arquitectura*
+
+- Classificação quanto a geografia
+
+- Topologia
+
+- Critérios de Rede *
+
+- Internet é segura? Porque?
+
+- Já se imaginamos sem internet
+
+- Tipos de ameaças na internet
+
+- Cuidados a ter
+
+--> PROXIMA AULA MODELO OSI
